@@ -16,10 +16,7 @@ The main purpose of this tool is to check raw UART communication data from embed
 It is useful when debugging:
 
 - MCU UART communication
-- Binary protocol packets
-- DWIN LCD command transmission
 - Sensor response packets
-- BMS packet data
 - Custom serial protocols
 
 ## Why This Tool Is Needed
