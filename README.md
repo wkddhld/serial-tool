@@ -27,3 +27,4 @@ However, when the MCU sends binary data such as:
 
 ```text
 0x5A 0xA5 0x07 0x82 0x00 0x84
+<img width="758" height="523" alt="image" src="https://github.com/user-attachments/assets/92fe2194-9213-4271-b578-b0bfbbc1e301" />
